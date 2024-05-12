@@ -6,7 +6,8 @@
 - [Traductor](https://github.com/Mileccc/TraductorAudioToAudio) en tiempo Real de voz a voz
 
 ![Video del traductor](https://youtu.be/d0Dn0ioeNTc?si=4g1t5lcnEpGJpVXS)
-  
+
+- [practca-agentes](https://github.com/Mileccc/practica_agentes)aprendiendo a usar crewai
 - [Portafolio fullstack](https://github.com/Mileccc/portafolio_fullstack/tree/master) testeo de portafolio
 - [Chat en tiempo real](https://github.com/Mileccc/chatTiempoReal/tree/master/client) Practicando shokets
 - [Web tienda y carrito](https://github.com/Mileccc/Tienda_y_Carrito) Practicando con una web de ventas
