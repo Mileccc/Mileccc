@@ -4,7 +4,9 @@ Apasionado de la Inteligencia Artificial
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-v%C3%A1zquez-mart%C3%ADn-567307298/)
 
 ## Proyectos recientes
-
+- [Traductor](https://github.com/Mileccc/Traductor_videos_youtube/tree/master) videos de youtube voz a voz.
+- [LangGraph](https://github.com/Mileccc/practica_langgraph) practicando con chains y agentes .
+- [Traductor-V2](https://github.com/Mileccc/traductor_audio_to_audio_V2) en tiempo Real Voz a Voz
 - [Traductor](https://github.com/Mileccc/TraductorAudioToAudio) en tiempo Real de voz a voz
 
 ![Video del traductor](https://youtu.be/d0Dn0ioeNTc?si=4g1t5lcnEpGJpVXS)
